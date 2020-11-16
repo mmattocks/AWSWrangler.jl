@@ -1,0 +1,4 @@
+name = "AWSWrangler"
+uuid = "0905404b-aaa2-4899-93c8-d02975ecad25"
+authors = ["Michael Mattocks <mike.mattocks@utoronto.ca>"]
+version = "0.1.0"
