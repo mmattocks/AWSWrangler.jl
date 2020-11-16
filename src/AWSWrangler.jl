@@ -99,4 +99,6 @@ function get_cheapest_zone(instance_type::String)
     return sort(collect(price_dict), by=x->x[2])[1]
 end
 
+export spot_wrangle,get_cheapest_zone
+
 end # module
